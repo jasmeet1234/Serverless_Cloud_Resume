@@ -1,7 +1,7 @@
 
 # Serverless Cloud Resume
 
-A fully serverless, cloud-based resume website built as part of the Cloud Resume Challenge. Hosted at [https://resume.jasmeetsingh.site/](https://resume.jasmeetsingh.site/), this project leverages AWS services to deliver a secure, scalable, and high-performance resume experience.
+A fully serverless, cloud-based resume website built as part of the Cloud Resume Challenge. Hosted at [https://resume.jasmeetsingh.site/](https://resume.jasmeetsingh.site/), this project leverages AWS services to deliver a secure, scalable, and high-performance resume experience, with number of viewers being tracked in the back-end using DynamoDB.
 
 ## Overview
 
