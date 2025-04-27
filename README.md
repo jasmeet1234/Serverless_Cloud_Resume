@@ -58,7 +58,7 @@ This project integrates front-end development with advanced AWS services to depl
 
 ## 🖼️ Snapshot
 
-![Demo](ServerLess Resume.gif)
+![Demo](Snapshot.gif)
 
 --- 
 
