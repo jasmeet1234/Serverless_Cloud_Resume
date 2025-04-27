@@ -2,7 +2,10 @@
 
 Welcome to my advanced, fully serverless resume project showcasing modern cloud-native architecture on AWS. This project demonstrates technical expertise by leveraging serverless infrastructure to deliver a secure, performant, scalable resume website with dynamic viewer tracking.
 
-✨ **[Live Demo →](https://resume.jasmeetsingh.site/)**
+## ⚠️ Important Notice:
+Please note that the live AWS-hosted website for this project has been retired.
+As a student, maintaining regular cloud costs outside the AWS Free Tier was not feasible.
+However, the full project structure, deployment steps, and technical architecture remain available here on GitHub for learning and reference purposes.
 
 ---
 
@@ -89,14 +92,4 @@ This project integrates front-end development with advanced AWS services to depl
 
 ---
 
-## 🔧 Future Enhancements
 
-- Enhanced UI/UX design features.
-- Integration of additional analytics.
-- Advanced security implementations using AWS WAF.
-
----
-
-Feel free to explore the website live: 🌐 **[resume.jasmeetsingh.site](https://resume.jasmeetsingh.site/)**
-
-Your contributions and feedback are warmly welcomed!
