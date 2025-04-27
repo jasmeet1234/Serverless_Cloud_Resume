@@ -56,6 +56,12 @@ This project integrates front-end development with advanced AWS services to depl
 
 ---
 
+## 🖼️ Snapshot
+
+![Demo](ServerLess Resume.gif)
+
+--- 
+
 ## 🚩 Deployment Steps
 
 ### Front-End Development & Hosting
